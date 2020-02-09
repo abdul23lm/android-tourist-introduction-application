@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    tools:context=".sejarah">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="587dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="326dp"
+        tools:layout_editor_absoluteY="0dp">
+
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="fill_parent"
+        android:layout_height="42dp"
+        android:text="Wisata Sejarah"
+        android:textAlignment="center"
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <Button
+        android:id="@+id/buttonCandiJiwa"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Situs Candi Jiwa"
+        tools:layout_editor_absoluteX="144dp"
+        tools:layout_editor_absoluteY="70dp" />
+
+    <Button
+        android:id="@+id/buttonMonumenRawaGede"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Monumen Rawagede"
+        tools:layout_editor_absoluteX="131dp"
+        tools:layout_editor_absoluteY="151dp" />
+
+        <Button
+            android:id="@+id/buttonCandiBlandongan"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Candi Blandongan"
+            tools:layout_editor_absoluteX="37dp"
+            tools:layout_editor_absoluteY="225dp" />
+
+        <Button
+            android:id="@+id/buttonMonumenKebulatan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Monumen Kebulatan Tekad Rengasdengklok" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="vertical"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Candi Blandongan"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:layout_marginBottom="20dp"/>
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="237dp"
+            android:src="@drawable/blandongan" />
+
+        <TextView
+            android:id="@+id/candijiwa.txt"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:textAlignment="gravity"
+            android:text="Candi Jiwa terletak di kompleks percandian Batujaya, tepatnya di Kecamatan Batujaya dan Pakisjaya, Karawang, Jawa Barat. Dimana Candi Jiwa merupakan salah satu candi peninggalan agama Budha yang bahkan umurnya diprediksi lebih tua daripada Candi Borobudur di Magelang. Selain Candi Jiwa, salah satu candi Budha tua di Indonesia adalah Sejarah Candi Sewu yang berada di Klaten, Jawa Tengah. \n\n
+    Dari keterangan warga yang menghuni daerah didekat candi Jiwa, bahwa dulunya unur atau gundukan tanah yang menutupi candi tersebut dilewati oleh kambing. Dan kambing tersebut mati tanpa sebab yang jelas. Dari situ masyarakat sekitar menganggap tempat itu memiliki “Jiwa”, karena tidak hanya sekali, kambing yang melewati unur tersebut mati tanpa sebab yang jelas. \n\n
+    Tidak banyak sumber yang menyatakan asal-usul berdirinya Candi Jiwa ini. Ada beberapa penemuan yang ditemukan di kompleks percandian Batujaya ini. Penemuan tersebut berbentuk tablet / lempengan batu yang berukir relief Budha, beberapa jenis keramik, Sebuah Prasasti terakota yang  meerisi mantra Budha, dan masih banyak lagi. Hal ini menunjukkan bahwa bangunan ini merupakan salah satu bangunan peninggalan agama Budha. Dan hal ini diperkuat lagi dengan arsitek dari candi ini berbentuk seperti bunga teratai yang diduga diatasnya terdapat stupa dari Budha. \n\n
+    Penelitian awal dilakukan pada tahun 1984 oleh tim Arkeologi dari Fakulyas Sastra Indonesia yang saat ini bernama Fakultas Ilmu Budaya Universitas Indonesia. Hal ini berdasarkan laporan dari penduduk sekitar yang menemukan benda-benda purbakala di area pesawahan yang tertimbun tanah. Timbunan tersebut disebut “ unur” oleh masyarakat sekitar. Unur juga di kermatkan oleh masyarakat sekitar. \n\n
+    Hingga tahun 2000 telah ditemukan sebanyak 24 situs yang berada di desa tegaljaya dan juga desa Segaran. Dimana terdapat 11 situs yang ditemukan di desa Tegaljaya dan 13 Situs yang berada di desa Segaran. Dan ditahun itu pula dari 24 situs yang ditemukan baru terevakuasi 11 Candi dan misteri pembangunan dari candi-candi tersebut sampai saat ini masih belum jelas terungkap, karena memang tidak banyak sumber yang mengungkapkan asal mula dari candi-candi di situs Batujaya ini. \n\n." />
+    </LinearLayout>
+</ScrollView>

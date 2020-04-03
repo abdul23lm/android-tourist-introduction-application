@@ -1,6 +1,6 @@
-# aplikasi-pengenalan-objek-wisata-android
-Pengenalan Objek Wisata Menggunakan Android
+# android-tourist-introduction-application
+Android Tourist Introduction Application (Android)
 
-# Software Requirement
+# Software Requirements
 - Programming Language : Java
 - IDE Tools : Android Studio version 3.3 latest
